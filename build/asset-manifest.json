@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facebook-data-analyzer/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/facebook-data-analyzer/static/js/main.21dc1a94.chunk.js",
+    "main.js.map": "/facebook-data-analyzer/static/js/main.21dc1a94.chunk.js.map",
+    "runtime~main.js": "/facebook-data-analyzer/static/js/runtime~main.690ccb2d.js",
+    "runtime~main.js.map": "/facebook-data-analyzer/static/js/runtime~main.690ccb2d.js.map",
+    "static/js/2.ca150098.chunk.js": "/facebook-data-analyzer/static/js/2.ca150098.chunk.js",
+    "static/js/2.ca150098.chunk.js.map": "/facebook-data-analyzer/static/js/2.ca150098.chunk.js.map",
+    "index.html": "/facebook-data-analyzer/index.html",
+    "precache-manifest.7a6f8e979012442de6b19e656df1c5d4.js": "/facebook-data-analyzer/precache-manifest.7a6f8e979012442de6b19e656df1c5d4.js",
+    "service-worker.js": "/facebook-data-analyzer/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/facebook-data-analyzer/static/css/main.d498bfb3.chunk.css.map"
+  }
+}
